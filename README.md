@@ -23,6 +23,7 @@ Chris(2:38:56 PM): ssh rr054u@m5labtestvm05.gcsc.att.com
 
 
   courses to take:
+  
     https://www.udacity.com/course/intro-to-jquery--ud245
     https://www.udacity.com/course/how-to-use-git-and-github--ud775
     https://www.udacity.com/course/javascript-promises--ud898
