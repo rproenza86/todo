@@ -16,6 +16,8 @@ Chris(2:38:56 PM): ssh rr054u@m5labtestvm05.gcsc.att.com
   #print Dumper($rr054uHash);
 
 
+https://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart    good
+
   Monday's meeting :
     iPhone (Caller-Paid): 4044690472,,5523008#
     Click here: https://connect2.uc.att.com/attinc/meet/?ExEventID=85523008&CT=M
