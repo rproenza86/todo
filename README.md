@@ -26,7 +26,7 @@ https://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart    goo
 
   courses to take:
   
-    https://www.udacity.com/course/intro-to-jquery--ud245
+    done -- https://www.udacity.com/course/intro-to-jquery--ud245
     https://www.udacity.com/course/how-to-use-git-and-github--ud775
     https://www.udacity.com/course/javascript-promises--ud898
     https://www.udacity.com/course/object-oriented-javascript--ud015
