@@ -1,0 +1,18 @@
+Just typing this up in case anyone needs to reference it later.
+
+1)	Finish your branch
+2)	Push your branch to server (example: git push origin feature/MMANALOGUE-110)
+3)	Check out development branch (example: git checkout development)
+4)	Update development branch (example: git pull)
+5)	Switch back to your branch (example git checkout feature/MMANALOGUE-110)
+6)	Merge in recent changes on development (git merge development)
+7)	Resolve any conflicts
+8)	Test application
+9)	Push changes to your branch (git push origin feature/MMANALOGUE-110)
+10)	Create Pull request on code cloud (using the web browser)
+11)	Switch to development (example: git checkout development)
+12)	Merge branch into development (example: git merge feature/MMANALOGUE-110)
+13)	Step 12 should be fast forward merge unless someone pushed changes to development between steps 4 and 12…. If not a fast forward merge then you need to resolve conflicts and reverse merge them back into your branch and push them to server
+14)	Test app
+15)	Push merged development branch to server (example: git push origin development)
+16)	Create pull request to QA (use code cloud web interface)
