@@ -29,7 +29,7 @@ https://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart    goo
     done -- https://www.udacity.com/course/intro-to-jquery--ud245
     https://www.udacity.com/course/how-to-use-git-and-github--ud775
     done -- https://www.udacity.com/course/javascript-promises--ud898
-    https://www.udacity.com/course/object-oriented-javascript--ud015
+    done -- https://www.udacity.com/course/object-oriented-javascript--ud015
     https://www.udacity.com/course/rapid-prototyping--ud723
     https://www.udacity.com/course/website-performance-optimization--ud884
     https://www.udacity.com/course/browser-rendering-optimization--ud860
