@@ -57,5 +57,18 @@ contact
 flip boxed
 	http://avada.theme-fusion.com/flip-boxes/
 	
+busqueda de rest api
+	https://www.programmableweb.com/profile/rproenza86 -- api's identified
+	www.cms.gov
+		https://www.cms.gov/Newsroom/CMS-data.html
+			Medicare Provider Utilization and Payment Data: Physician and Other Supplier Look-up Tool
+	https://data.medicare.gov/developers
+	http://www.programmableweb.com/api/healthcare.gov
+	http://www.clariondoor.com/rating-engine/
+		– enables users to develop a rate plan reflecting risk levels posed by prospective customers. Quote requests can then be made via the Insured Rating API which return coverage and premium information. The data generated helps to manage insurance product offerings and provide accurate rate quotes matched to determinants of risk.
+	https://eapps.naic.org/NaicRegistry/#/home
+		– allows automated filing of standard reporting documentation required of insurance providers for compliance with state regulations. The provider is a cooperative agen– allows automated filing of standard reporting documentation required of insurance providers for compliance with state regulations. The provider is a cooperative agency maintained by state governments to encourage consistent regulatory and business practices for insurance companies.cy maintained by state governments to encourage consistent regulatory and business practices for insurance companies.
+ojo	https://eligible.com
+		- The Eligible Health Insurance API is a service that lets users lookup information on over 700 insurance companies. Information available includes patients active versus inactive status, coinsurance, copayment, deductible, health spending balance and specialty specific information such as MRI and diagnostic labs. The API uses RESTful calls and responses are formatted in JSON. 
 	
 	
