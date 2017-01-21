@@ -1,0 +1,8 @@
+JVS Mastering
+  https://www.safaribooksonline.com/library/view/learning-path-full/9781786468420/video1_1.html?autoStart=True
+LEARNING PATH: JAVASCRIPT PATTERNS
+  https://www.safaribooksonline.com/library/view/learning-path-javascript/9781787122031/video1_1.html?autoStart=True
+LEARNING PATH: KALI LINUX
+  https://www.safaribooksonline.com/library/view/learning-path-kali/9781787128354/video1_1.html?autoStart=True
+SOFTWARE ARCHITECTURE FUNDAMENTALS
+  https://www.safaribooksonline.com/library/view/learning-path-software/9781491957974/video229291.html?autoStart=True
